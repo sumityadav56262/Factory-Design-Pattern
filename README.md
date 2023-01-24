@@ -1,1 +1,1 @@
-# Factory-Design-Pattern
+# Factory-method-Pattern
